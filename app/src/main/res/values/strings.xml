@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WeatherForeCast</string>
+    <string name="sun">Sunny Icon</string>
 </resources>
